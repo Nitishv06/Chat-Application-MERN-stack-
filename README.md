@@ -29,3 +29,6 @@ npm run build
 ```shell
 npm start
 ```
+### Deployed Active Link : 
+https://chat-appli-hinr.onrender.com/
+as it deployed through render so it takes couple fo minutes for activating/opening 
